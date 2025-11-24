@@ -41,10 +41,6 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Mujahidul-Islam&show_icons=true&theme=tokyonight&no-frame=true&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mujahidul-Islam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Mujahidul-Islam&theme=react-dark&hide_border=false" alt="Activity Graph" height="230"/>
